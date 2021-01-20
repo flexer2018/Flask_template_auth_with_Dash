@@ -27,3 +27,5 @@ Here is an example of a real project implemented using Flask-Gentelella:
 ### Default Admin User
     username: admin
     password: admin
+    
+### 适合用于网络设备的管理
